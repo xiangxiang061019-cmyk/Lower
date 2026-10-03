@@ -1,0 +1,7 @@
+{
+  "keil": {
+    "project": "MDK-ARM/S2.uvprojx",
+    "target": "S2",
+    "log_dir": "MDK-ARM/buildlogs"
+  }
+}

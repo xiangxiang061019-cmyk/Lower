@@ -1,0 +1,24 @@
+{
+  "last_build": {
+    "provider": "keil",
+    "action": "rebuild",
+    "project": "MDK-ARM/S2.uvprojx",
+    "target": "S2",
+    "log_dir": "MDK-ARM/buildlogs",
+    "artifacts": {
+      "axf_file": "MDK-ARM/S2/S2.axf",
+      "hex_file": "MDK-ARM/S2/S2.hex",
+      "flash_file": "MDK-ARM/S2/S2.hex",
+      "debug_file": "MDK-ARM/S2/S2.axf",
+      "output_dir": "MDK-ARM/S2",
+      "log_file": "MDK-ARM/buildlogs/S2-S2-rebuild.log"
+    },
+    "axf_file": "MDK-ARM/S2/S2.axf",
+    "hex_file": "MDK-ARM/S2/S2.hex",
+    "flash_file": "MDK-ARM/S2/S2.hex",
+    "debug_file": "MDK-ARM/S2/S2.axf",
+    "output_dir": "MDK-ARM/S2",
+    "log_file": "MDK-ARM/buildlogs/S2-S2-rebuild.log",
+    "timestamp": "2026-09-27T18:00:16+08:00"
+  }
+}
